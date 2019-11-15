@@ -1,0 +1,51 @@
+.container{
+	background-color:#DAF7A6;
+	height:2250px;
+	width:900px;
+	margin:0 auto;
+	padding:10px;
+	
+}
+.profile-image{
+	height:100px;
+	width:80px;
+	border:2px solid black;
+	border-radius:50%;
+	float:left;
+	
+}
+.profile-text{
+	float:left;
+	padding:10px;
+}
+.contact-info{
+	float:right;
+	padding:10px;
+	
+	
+}
+h1,h2,h3,h4{
+	
+}
+.clear-div{
+	clear:both;
+}
+.hr{
+	border:solid;
+	border-bottom:none;
+}
+.left-div{
+	float:left;
+	width:30%;
+}
+
+.r-div{
+	
+	margin-left:150px;
+	float:right;
+	width:70%
+}
+.common-hr{
+	border:solid 1px;
+	color:green;
+}
